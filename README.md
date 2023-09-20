@@ -25,6 +25,7 @@ I'm constantly learning and expanding my skillset. Currently, I'm exploring Redu
 Feel free to reach out to me if you'd like to collaborate on a project, discuss technology, or just have a friendly chat. You can find me on:
 
 - LinkedIn: https://www.linkedin.com/in/msaidozturk/
+- Portfolio: https://sdztrk.github.io/second-portfolio-page/
 - Email: msaidozturk1@gmail.com
 
 Thanks for visiting my GitHub profile! 😄
