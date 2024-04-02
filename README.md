@@ -12,8 +12,9 @@ I'm a passionate Full Stack Developer and  love for solving complex problems. My
 - **Soft Skills:** Thorough and pay attention to detail, Persistent and determined, Flexible and open to change, Problem-solving skills, Good math knowledge
 
 ## 🌟 Highlights
-
-- React: 2 Movie Apps and many small web apps
+- Fullstack: Online-Apotheke(React.js/Redux-Node/Express.js, MongoDB), Book Library(React.js-Node/Express.js-Sqlite3/MongoDB)
+- Frontend: 2 Movie Apps(React.js), Apotheke Admin(Next.js), Casting App(Next.js), My Store(Typescript/React)
+- Backend: Car Rental,Stock Management,Task API(All of them built with Node/Express.js)
 - Vanilla JS HTML and SCSS/CSS: Dictionary app, Weather App and many small apps
 
 ## 📚 Learning Journey
