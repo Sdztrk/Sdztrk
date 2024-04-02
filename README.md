@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer and  love for solving complex problems. My
 
 ## 🔧 Skills
 
-- **Programming Languages:** JavaScript, ES6
+- **Programming Languages:** JavaScript(ES6), Typescript
 - **Frontend:** HTML, JavaScript, CSS, jQuery, React.js, Redux.js, AJAX, Axios, Yup, Formik, APIs, DOM
 - **Backend:** Node.js, Express.Js, SQL, PostgreSQL, MongoDB, Firebase, RESTful APIs, Netlify, Vercel
 - **Styling:** CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components, CSS-in-JS, Reactstrap
