@@ -11,15 +11,11 @@ I'm a passionate Full Stack Developer and  love for solving complex problems. My
 - **Tools:** Postman, VSCode, Git, GitHub, SDLC / Agile / Jira, Figma
 - **Soft Skills:** Thorough and pay attention to detail, Persistent and determined, Flexible and open to change, Problem-solving skills, Good math knowledge
 
-## 🌟 Highlights
+## 🌟 Highlights-Projects
 - Fullstack: Online-Apotheke(React.js/Redux-Node/Express.js, MongoDB), Book Library(React.js-Node/Express.js-Sqlite3/MongoDB)
 - Frontend: 2 Movie Apps(React.js), Apotheke Admin(Next.js), Casting App(Next.js), My Store(Typescript/React)
 - Backend: Car Rental,Stock Management,Task API(All of them built with Node/Express.js)
 - Vanilla JS HTML and SCSS/CSS: Dictionary app, Weather App and many small apps
-
-## 📚 Learning Journey
-
-I'm constantly learning and expanding my skillset. Currently, I'm working on Backend tolls like Node.js, Express.js, SQL, PostgreSQL and MondoDB. 
 
 ## 📫 Get in Touch
 
